@@ -4,7 +4,7 @@
 
 * [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
 * [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#docstrings-background)
-* [Python and django logging i. plain english](https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/#logging-funnel)
+* [Python and django logging in plain english](https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/#logging-funnel)
 
 ## Editors
 
