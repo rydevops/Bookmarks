@@ -6,6 +6,6 @@
 * [Linux Namespaces - Creating Containers By Example](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
 
 
-## Kubernetes: Networking
+## Networking
 
 * [Kubernetes Networking: Behind the scenes](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
