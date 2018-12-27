@@ -3,3 +3,4 @@
 ## Standards
 
 * [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
+* [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#docstrings-background)
