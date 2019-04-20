@@ -18,3 +18,7 @@
 ## Great Blogs
 
 * [RealPython.com](https://realpython.com)
+
+## SQL Alchemy
+
+*  [Common Query Filter Operators](https://docs.sqlalchemy.org/en/13/orm/tutorial.html#common-filter-operators)
